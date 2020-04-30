@@ -1,0 +1,2 @@
+conda install -c glemaitre imbalanced-learn
+https://toolbox.google.com/datasetsearch/search?query=Heart%20Disease%20Dataset&docid=JqpHwlknkhzd3EZlAAAAAA%3D%3D
